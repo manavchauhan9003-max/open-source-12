@@ -1,4 +1,5 @@
-
+// C program for stack implementation using array
+// this is just for practicing fork and clone in git hub. thank you hitesh sir for such a great session on git and github ......!!!!!
 #include <stdio.h>
 #define maxsize 10
 
